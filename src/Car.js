@@ -3,5 +3,4 @@ export default class Car {
     this.img = new Image();
     this.img.src = "../images/";
   }
-  draw() {}
 }
